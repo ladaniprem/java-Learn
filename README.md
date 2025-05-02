@@ -5,8 +5,6 @@ This repository contains Java programming examples, exercises, and learning mate
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Topics Covered](#topics-covered)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
 - [How to Use](#how-to-use)
 
 ## Getting Started
@@ -27,8 +25,7 @@ This repository is designed to help you learn Java programming from basics to ad
 - File I/O Operations
 - Multithreading
 - Java Collections Framework
-- JDBC Basics
-- Maven Projects
+- java Generic
 
 ## Project Structure
 Each topic has its own directory containing:
